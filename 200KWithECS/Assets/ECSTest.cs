@@ -111,7 +111,7 @@ public struct Jump : IComponentData
 //        });
 //    }
 //}
-
+//
 //public class GravitySystem : ComponentSystem
 //{
 //    protected override void OnUpdate()
@@ -122,7 +122,7 @@ public struct Jump : IComponentData
 //        });
 //    }
 //}
-
+//
 //public class FloorDetectionSystem : ComponentSystem
 //{
 //    protected override void OnUpdate()
